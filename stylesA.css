@@ -1,3 +1,4 @@
+
 :root{
     --grey--:  #000000;
 }
@@ -8,3 +9,6 @@
     box-sizing: content-box;
 }
 
+html{
+    scroll-behavior: smooth;
+}
