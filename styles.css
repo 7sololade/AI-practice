@@ -7,3 +7,16 @@
 html{
     scroll-behavior: smooth;
 }
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+header {
+    height: 500px;
+    display: block;
+    object-fit: contain;
+}
